@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku game made in JAVA
+Sudoku game made in JAVA.
