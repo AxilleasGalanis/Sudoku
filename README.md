@@ -5,4 +5,10 @@ This is a Sudoku game made in Java. It features a user-friendly GUI made with Ja
 
 # Compilation and Execution
 Compile the files using the command:
+```
 javac sudoku/*.java
+```
+Execute the program using the command:
+```
+javac sudoku/*.java
+```
